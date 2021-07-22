@@ -1,0 +1,23 @@
+Régions métropolitaines:
+( ) Auvergne-Rhône-Alpes
+( ) Bourgogne-Franche-Comté
+( ) Bretagne
+( ) Centre-Val de Loire
+( ) Corse
+( ) Grand Est
+(x) Hauts-de-France
+(x) Ile-de-France
+( ) Normandie
+(x) Nouvelle-Aquitaine
+( ) Occitanie
+( ) Pays de la Loire
+( ) Provence-Alpes-Côte d’Azur
+
+Région d'outre-mer:
+( ) Guadeloupe
+( ) Martinique
+( ) Guyane
+( ) La Réunion
+( ) Mayotte
+
+P.S.: All those data were downloaded from https://atmo-france.org/les-donnees/ using the "Indice de qualité de l'air" option.
