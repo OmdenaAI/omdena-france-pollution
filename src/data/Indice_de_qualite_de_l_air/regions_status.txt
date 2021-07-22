@@ -9,7 +9,7 @@ Régions métropolitaines:
 (x) Ile-de-France
 ( ) Normandie
 (x) Nouvelle-Aquitaine
-( ) Occitanie
+(x) Occitanie
 ( ) Pays de la Loire
 ( ) Provence-Alpes-Côte d’Azur
 
