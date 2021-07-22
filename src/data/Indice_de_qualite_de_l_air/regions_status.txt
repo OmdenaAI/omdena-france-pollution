@@ -4,7 +4,7 @@ Régions métropolitaines:
 ( ) Bretagne
 ( ) Centre-Val de Loire
 ( ) Corse
-( ) Grand Est
+(x) Grand Est
 (x) Hauts-de-France
 (x) Ile-de-France
 ( ) Normandie
