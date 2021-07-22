@@ -1,7 +1,7 @@
 Régions métropolitaines:
 ( ) Auvergne-Rhône-Alpes
-( ) Bourgogne-Franche-Comté
-( ) Bretagne
+(x) Bourgogne-Franche-Comté
+(x) Bretagne
 ( ) Centre-Val de Loire
 ( ) Corse
 (x) Grand Est
