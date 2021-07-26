@@ -12,7 +12,6 @@ st.text("Selected file path: %s" %(os.path.join(os.getcwd(), selected_csv_file))
 
 selected_df = pd.read_csv(selected_csv_file)
 
-st.write
 st.write(selected_df)
 
 # st.header("Visualize the data")
